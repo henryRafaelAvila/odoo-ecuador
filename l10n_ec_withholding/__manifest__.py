@@ -19,6 +19,7 @@
         'data/partner.xml',
         'views/report_account_move.xml',
         'views/reports.xml',
-        'views/withholding_view.xml'
+        'views/withholding_view.xml',
+        'wizard/withholding_wizard.xml'
     ]
 }
